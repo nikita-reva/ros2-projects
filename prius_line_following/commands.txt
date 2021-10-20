@@ -1,0 +1,10 @@
+// Start Gazebo simuliation
+gazebo --verbose /home/nikita/ros2_ws/src/prius_line_following/world/prius_on_track.world
+// OR
+ros2 launch prius_line_following car_on_track.launch.py 
+
+// Start video saver (records the simulation)
+ros2 run prius_line_following video_saver.py 
+
+// Kill Gazebo server process
+killall gzserver

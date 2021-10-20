@@ -1,0 +1,25 @@
+{
+  "python.autoComplete.extraPaths": [
+    "/home/nikita/ros2_ws/install/webots_ros2/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_demos/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_universal_robot/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_ur_e_description/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_tutorials/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_turtlebot/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_tiago/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_tesla/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_examples/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_epuck/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_abb/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_core/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_msgs/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/webots_ros2_importer/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/turtlesim_exercise/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/sick_safetyscanners2_interfaces/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/pendulum2_msgs/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/my_py_pkg/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/my_robot_interfaces/lib/python3.8/site-packages",
+    "/home/nikita/ros2_ws/install/laser_to_point_cloud/lib/python3.8/site-packages",
+    "/opt/ros/foxy/lib/python3.8/site-packages"
+  ]
+}

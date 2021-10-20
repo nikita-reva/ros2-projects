@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/nikita/ros2_ws/install/webots_ros2_msgs/include/**",
+        "/home/nikita/ros2_ws/install/sick_safetyscanners2_interfaces/include/**",
+        "/home/nikita/ros2_ws/install/pointcloud_to_laserscan/include/**",
+        "/home/nikita/ros2_ws/install/pendulum_utils/include/**",
+        "/home/nikita/ros2_ws/install/pendulum2_msgs/include/**",
+        "/home/nikita/ros2_ws/install/my_robot_interfaces/include/**",
+        "/opt/ros/foxy/include/**",
+        "/home/nikita/ros2_ws/src/pendulum/pendulum_controller/include/**",
+        "/home/nikita/ros2_ws/src/pendulum/pendulum_driver/include/**",
+        "/home/nikita/ros2_ws/src/pendulum/pendulum_utils/include/**",
+        "/home/nikita/ros2_ws/src/pointcloud_to_laserscan/include/**",
+        "/home/nikita/ros2_ws/src/sick_safetyscanners2/include/**",
+        "/home/nikita/ros2_ws/src/sick_safetyscanners_base/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,8 @@
+// Launch Gazebo simulation
+ros2 launch rover 2_gazebo.launch.py 
+
+// Run wall obstacle avoiding node
+ros2 run rover obstacle_avoiding 
+
+// Run wall follwing node
+ros2 run rover wall_following 
